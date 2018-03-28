@@ -1,8 +1,3 @@
-'''
-Created on Feb 27, 2017
-
-@author: sangeeta
-'''
 
 inputFile = sys.argv[1]
 outputFile = sys.argv[2]
