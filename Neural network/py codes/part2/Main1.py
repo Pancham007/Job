@@ -1,8 +1,4 @@
-'''
-Created on Mar 21, 2017
 
-@author: sangeeta
-'''
 
 def trainMNB(classList,trainingSet):
     count=1
