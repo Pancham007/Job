@@ -1,0 +1,16 @@
+Sentence	Sentiment
+Not a good bargain.	0
+"Well packaged, arrived on time, and works as intended."	1
+The battery runs down quickly.	0
+"This item worked great, but it broke after 6 months of use."	0
+The headsets are easy to use and everyone loves them.	1
+This phone works great.	1
+The construction of the headsets is poor.	0
+Product was excellent and works better than the verizon one and Boy was it cheaper!	1
+The phone loads super!	1
+"For a product that costs as much as this one does, I expect it to work far better and with greater ease than this thing does."	0
+Made very sturdy.	1
+Worked great!.	1
+The ear buds only play music in one ear.	0
+Dont waste your money...	0
+Will order from them again!	1
