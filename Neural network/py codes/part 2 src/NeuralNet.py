@@ -1,8 +1,4 @@
-'''
-Created on Feb 28, 2017
 
-@author: sangeeta
-'''
 from datashape.coretypes import float64
 
 def makeWeightList(hLayer,hList, inputLen):
